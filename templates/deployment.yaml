@@ -18,7 +18,7 @@ spec:
     metadata:
       labels: # these labels are pod labels
         app: redis
-        project: robohop
+        project: roboshop
         tier: db
     spec:
       containers:
